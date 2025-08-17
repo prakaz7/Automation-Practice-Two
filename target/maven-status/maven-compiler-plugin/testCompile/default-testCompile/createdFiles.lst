@@ -1,4 +1,11 @@
+com\test\steps\LetCodeButtonFields.class
 com\test\steps\LoginTest.class
-com\test\utils\DriverFactory.class
+com\test\steps\LetCodeRadioFields.class
+com\test\steps\LetCodeWindows.class
 com\test\utils\Hooks.class
+com\test\steps\LetCodeInputFields.class
+com\test\steps\LetcodeAlertFields.class
+com\test\steps\LetCodeFrame.class
 com\test\runner\TestRunner.class
+com\test\utils\DriverFactory.class
+com\test\steps\LetCodeDropdwonFields.class

@@ -6,9 +6,9 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
-		features = "src/test/resources/features/Login.feature",
+		features = "src/test/resources/features",
 		monochrome = true,
-		//tags="@test",
+		tags="@test",
 		glue = {"com.test.steps", "com.test.utils"},
 		plugin = {"pretty", "html:target/cucumberReports.html"}
 		)
